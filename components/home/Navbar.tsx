@@ -25,7 +25,7 @@ export default function Navbar({ cartCount }: { cartCount: number }) {
       <div className="max-w-[1400px] mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex-shrink-0">
-            <Image src={LOGO_URL} alt="Tora Bullion" width={220} height={88} className="h-20 w-auto" priority />
+            <Image src={LOGO_URL} alt="Tora Bullion" width={220} height={88} className="h-24 w-auto" priority />
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">

@@ -145,7 +145,7 @@ export default function LivePriceSection() {
             </h2>
           </div>
           <p className="text-white/45 text-sm md:text-base max-w-xs md:text-right leading-relaxed">
-            Tora Bullion follows the international spot price for all products with a fully transparent transaction process.
+            Catch the live price for gold and silver. Tora Bullion follows this international spot price for all our products with a transparent transaction process.
           </p>
         </motion.div>
 
